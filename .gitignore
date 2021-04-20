@@ -130,3 +130,9 @@ dmypy.json
 
 # Json
 *.json
+
+# audio upload files
+upload w noise/
+
+# output text df
+*.xlsx
