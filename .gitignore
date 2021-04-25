@@ -136,3 +136,7 @@ upload w noise/
 
 # output text df
 *.xlsx
+
+# film txt
+*.txt
+
